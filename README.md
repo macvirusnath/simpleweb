@@ -1,2 +1,3 @@
-# data-structure
-these repository contains all sorting algo
+# simple web application
+this application provides simple website for cars
+
